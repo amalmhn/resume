@@ -1,0 +1,58 @@
+#resume{
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    padding-left: 50px;
+}
+/* #ulItems{
+    color: white;
+} */
+#home{
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+#about{
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+#course{
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+#placmnts{
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+#gallery{
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+#contact{
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+}
+#navbarSupportedContent{
+    margin-right: 100px;
+
+}
+#pasportImg{
+    margin-top: 150px;
+    width: 300px;
+    height: 350px;
+    border-radius: 100%;
+    margin-left: 50px;
+}
+#h3Profile{
+    font-family: "Times New Roman", Times, serif;
+    
+}
+#hamBurgr{
+    background-color: white;
+    
+}
+/* .icon-linkedin{
+    background-color: white;
+} */
+.fa-linkedin {  
+    background: #007bb5;  
+    color: white;  
+  } 
